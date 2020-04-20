@@ -4,7 +4,6 @@
 //
 //  Created by wq on 17/3/22.
 //  Copyright © 2017年 WQ. All rights reserved.
-//
 
 #import "YYCache.h"
 #import "YYCacheManager.h"
